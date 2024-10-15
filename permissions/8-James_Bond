@@ -1,1 +1,2 @@
 #!/bin/bash
+chmod set 007 hello
