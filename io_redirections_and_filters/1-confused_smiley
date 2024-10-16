@@ -1,1 +1,2 @@
 #!/bin/bash
+touch Smiley ; echo "(Ôo)"
